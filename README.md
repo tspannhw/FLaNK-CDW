@@ -23,6 +23,11 @@ https://www.youtube.com/watch?v=ahc6IXlXwU8&pp=ygULbmlmaSBpbXBhbGE%3D
 
 https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygULbmlmaSBpbXBhbGE%3D
 
+https://www.youtube.com/watch?v=35B6x0fSuS0&pp=ygULbmlmaSBpbXBhbGE%3D
+
+https://www.youtube.com/watch?v=HxU73SAKlOI&t=4s
+
+
 
 ## Articles
 
