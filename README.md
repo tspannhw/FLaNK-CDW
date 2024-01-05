@@ -5,6 +5,9 @@ CDW, NiFi, DataFlow, Impala
 ## Everything NiFi <-> Impala / CDW / Cloudera Data Warehouse / Kudu / Iceberg / HDFS / S3
 
 
+* *Note*   There is a bug in NiFi 1.21 that breaks the DBCConnectionPool verification for Impala JDBC.   Upgrade to 1.24 or 2.x.   https://nifi.apache.org/download.html
+  
+
 ## Videos
 
 https://www.youtube.com/watch?v=V1MEsV1Dkew
