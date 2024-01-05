@@ -79,6 +79,8 @@ https://github.com/jtstorck/nifi-impala
 
 https://github.com/tspannhw/table-ddl
 
+https://github.com/tspannhw/FLaNK-DataFlows/blob/main/jdbc/README.md
+
 
 
 ## Resources
